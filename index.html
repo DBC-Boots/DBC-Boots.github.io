@@ -13,7 +13,24 @@ layout: default
         <p>You can join our Slack channel, <a href="https://reply-all.slack.com/messages/resources/" target="_blank">#Resources</a>, on <a href="https://reply-all.slack.com/messages/general/" target="_blank">Reply-All</a>.</p>
     </article>
 
-    <h1 class="page-heading">Posts</h1>
+    <article>
+        <h1>Wiki Pages</h1>
+        <ul>
+            {% for page in site.pages %}
+                {% if page.title %}
+                    {% if page.title != 'About' %}
+                    <li>
+                        <h3>
+                            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                        </h3>
+                    </li>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </article>
+
+    <!-- <h1 class="page-heading">Posts</h1>
 
     <ul class="post-list">
         {% for post in site.posts %}
@@ -25,10 +42,10 @@ layout: default
             </h2>
         </li>
         {% endfor %}
-    </ul>
+    </ul> -->
 
-    <p class="rss-subscribe">subscribe
+    <!-- <p class="rss-subscribe">subscribe
         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
-    </p>
+    </p> -->
 
 </div>
