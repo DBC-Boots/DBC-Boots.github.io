@@ -15,17 +15,13 @@ layout: default
 
     <article>
         <h1>Wiki Pages</h1>
-        <ul>
-            {% for page in site.pages %}
-                {% if page.title %}
-                    {% if page.title != 'About' %}
-                    <li>
-                        <h3>
-                            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                        </h3>
-                    </li>
-                    {% endif %}
-                {% endif %}
+        <ul class="list-without-styling">
+            {% for page in site.data.wiki.pages %}
+                <li>
+                    <h3>
+                        <a class="page-link" href="{{ page.url | prepend: site.data.wiki.baseUrl }}">{{ page.title }}</a>
+                    </h3>
+                </li>
             {% endfor %}
         </ul>
     </article>

@@ -7,6 +7,12 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
+  {% if page.wikiPageName %}
+    {% if page.wikiPageName != 'Home' %}
+    <a href="Home.html">Wiki Home</p>
+    {% endif %}
+  {% endif %}
+
   <article class="post-content">
     {{ content }}
   </article>

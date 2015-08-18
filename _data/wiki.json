@@ -1,0 +1,44 @@
+{
+    "title": "Wiki Pages",
+    "baseUrl": "/wiki",
+    "pages": [{
+        "url": "/Home.html",
+        "title": "Home"
+    }, {
+        "url": "/Job-Searching.html",
+        "title": "Job Searching"
+    }, {
+        "url": "/Finding-Your-Niche.html",
+        "title": "Finding Your Niche"
+    }, {
+        "url": "/Hiring.html",
+        "title": "Hiring"
+    }, {
+        "url": "/Work.html",
+        "title": "Work"
+    }, {
+        "url": "/Speaking.html",
+        "title": "Speaking"
+    }, {
+        "url": "/Organizing-Meetups.html",
+        "title": "Organizing Meetups"
+    }, {
+        "url": "/Dev-Interviews.html",
+        "title": "Dev Interviews"
+    }, {
+        "url": "/Networking.html",
+        "title": "Networking"
+    }, {
+        "url": "/Mentorships.html",
+        "title": "Mentorships"
+    }, {
+        "url": "/Learning-Another-Language.html",
+        "title": "Learning Another Language"
+    }, {
+        "url": "/Guide-for-All-Developers.html",
+        "title": "Guide for All Developers"
+    }, {
+        "url": "/Code-of-Conduct.html",
+        "title": "Code of Conduct"
+    }]
+}

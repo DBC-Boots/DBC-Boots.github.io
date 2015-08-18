@@ -1,9 +1,9 @@
 /**
  * Lists
  */
-ul {
+.list-without-styling {
   list-style: none; }
-  ul li {
+  .list-without-styling li {
     margin-left: 0; }
 
 /**

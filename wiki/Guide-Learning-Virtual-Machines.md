@@ -13,7 +13,7 @@ menu: wiki
 
 For OSX, your hosts file is located in the following directory:
 
-```shell
+```
 /private/etc/hosts
 ```
 
