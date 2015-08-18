@@ -40,7 +40,7 @@ Personally haven't been too good about it. Make it short and to the point if you
 
 ## Credits
 
-Thanks to [Oli Treadwell](https://twitter.com/olitreadwell) for the idea on May 6th, 8:14 AM.
+Thanks to [Oli Treadwell](https://twitter.com/olitreadwell) for the idea on May 6th 2015, 8:14 AM.
 
 > @channel: spitballin’ ideas here, but have we thought about creating a github repo from DBC alums for DBC alums, which talks about different categories relevant to devs post-graduation? Or has this already been done?
 
