@@ -12,3 +12,5 @@ Powered by [Jekyll](http://jekyllrb.com/)
 $ jekyll serve
 # => Now browse to http://localhost:4000
 ```
+
+Utilizing [WikiToJekyll](https://github.com/djacquel/WikiToJekyll) as a way to update website via Github wiki
