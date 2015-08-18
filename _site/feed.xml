@@ -6,9 +6,52 @@
 </description>
     <link>http://DBC-Boots.github.io/</link>
     <atom:link href="http://DBC-Boots.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Aug 2015 15:32:45 -0700</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2015 15:32:45 -0700</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2015 16:00:02 -0700</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2015 16:00:02 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Developer Interviews</title>
+        <description>&lt;!-- &gt; [Wiki](Home) ▸ **Dev Interviews** --&gt;
+
+&lt;h1 id=&quot;interview-resources&quot;&gt;Interview Resources&lt;/h1&gt;
+
+&lt;p&gt;This entire section is thanks to &lt;a href=&quot;https://github.com/mxngyn/&quot;&gt;Mai Nguyen&lt;/a&gt; from her &lt;a href=&quot;https://github.com/mxngyn/resources/&quot;&gt;Resources Repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ocf.berkeley.edu/~kelu/interviews/questions.html&quot;&gt;Interview Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://katemats.com/interview-questions/&quot;&gt;katemats Epic List of Interview Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://meetupresources.herokuapp.com/index.html&quot;&gt;Algorithm &amp;amp; Interview Prep Resources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codingforinterviews.com/practice&quot;&gt;Coding for Interviews&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/h5bp/Front-end-Developer-Interview-Questions&quot;&gt;Front-end Job Interview Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.interviewcake.com/&quot;&gt;Interview Cake&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/lizTheDeveloper/Interview-Prep&quot;&gt;Interview Prep&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/0B9rNYoTX2AgbT2NfMXNoaTYtZE0/edit&quot;&gt;Interview Questions Sample&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itechaleart.com/2013/06/top-50-oop-interview-questions.html&quot;&gt;Top 50 OOP Interview Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.toptal.com/ruby-on-rails/interview-questions&quot;&gt;7 Great Ruby on Rails Interview Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.toptal.com/ruby/interview-questions&quot;&gt;10 Great Ruby on Rails Interview Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/afeld/rails_interview_questions&quot;&gt;Rails Interview Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers&quot;&gt;Ruby and Ruby on Rails Interview Questions and Answers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.toptal.com/javascript/interview-questions&quot;&gt;22 Great JavaScript Interview Questions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://career.guru99.com/top-85-javascript-interview-questions/&quot;&gt;Top 85 JavaScript Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;whiteboarding&quot;&gt;Whiteboarding&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@gregorymazurek/stop-whiteboarding-8ed99abfdc12&quot;&gt;Stop Whiteboarding&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/GregoryMazurek&quot;&gt;Gregory Mazurek&lt;/a&gt;, engineer at &lt;a href=&quot;http://www.gilt.com/&quot;&gt;Gilt&lt;/a&gt;, writes from the company’s perspective on asking better interview questions&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 18 Aug 2015 09:44:20 -0700</pubDate>
+        <link>http://DBC-Boots.github.io/jekyll/update/2015/08/18/dev-interviews.html</link>
+        <guid isPermaLink="true">http://DBC-Boots.github.io/jekyll/update/2015/08/18/dev-interviews.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>

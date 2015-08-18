@@ -3,13 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Welcome to the Resources Wiki for Post-DBC Graduates! Below is a written introduction for anyone whose never been to this Wiki before.
-
-Stay in touch with alumni! There are official alumni newsletters for each location. Contact your location's contact that coordinates alumni activities.
-
-You can join our Slack channel, [#Resources](https://reply-all.slack.com/messages/resources/), on [Reply-All](https://reply-all.slack.com/messages/general/).
-
 ## Introduction
 
 Perhaps the excitement of graduation has finally waned and it's time to actually look for a job. Perhaps it's the angst of not having a job because your financial runway is about to crap out. Perhaps it's a lack of direction because you want to do and learn everything. This guide is written in a way to help you navigate through your excitement or fears of the next steps.
