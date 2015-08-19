@@ -11,14 +11,21 @@ menu: wiki
 
 ## Browser Support
 * [Can I Use](http://caniuse.com/) is the place to find out which browsers supports specific CSS features
+
+## Live Plays
+* [Codepen](http://codepen.io/) - The folks who brought you CSS-Tricks, Chris Coyier, Alex Vasquez, and Tim Sabat, created Codepen, an easy way to live demo your code without the hassle of set-up.
+
 ## CSS preprocessors
 
 ### [Sass](http://sass-lang.com/)
 
+* [My Favorite Sass Tools](http://www.sitepoint.com/my-favorite-sass-tools/) - A collection of great CSS tools
+
 #### Sass Libraries
 
-* Compass
-* Bourbon
+* [Compass](http://compass-style.org/)
+* [Bourbon](http://bourbon.io/) - Sass Mixins Library
+* [Scut](https://davidtheclark.github.io/scut/) - Scut is a Sass Utilities Library
 
 ### [Less.js](http://lesscss.org/)
 
@@ -50,6 +57,7 @@ anything you can imagine!
 ### Design Guidelines
 
 * [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html)
+* **BEM**, or Block Element Modifier. A convention to naming your classes and ids. Here's [CSS-Trick's intro](https://css-tricks.com/bem-101/). There's also an [official looking website](https://en.bem.info/) that describes it in more detail.
 
 ## SVG
 

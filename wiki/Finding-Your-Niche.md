@@ -58,6 +58,7 @@ TODO: Talk about Mastery
 * [Hack Design](https://hackdesign.org/) - Follow a 52 week course via email of the fundamentals of design, curated by top designers around the world.
 * [Level Up! - Web Design & Development Newsletter](http://tinyletter.com/levelupnewsletter) by [Ricardo Zea](https://twitter.com/ricardozea)
 * [Death to the Stock Photo](http://deathtothestockphoto.com/) - Thanks and credits to [Corey Nilan](https://github.com/cen10)
+* [The Bézier Game](http://bezier.method.ac/) - An interactive game to help you master the pen tool.
 
 ## UI/UX
 
