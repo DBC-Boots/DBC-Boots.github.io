@@ -36,18 +36,13 @@ Or maybe you've had that first, bad experience outside of Dev Bootcamp and you'r
 
 ## Contribution Guide
 
-Looking at very well documented Github Wikis, for example [Snowplow](https://github.com/snowplow/snowplow/wiki) and [d3.js](https://github.com/mbostock/d3/wiki) from [this Quora thread](http://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects), the pages are name-spaced corresponding to its section.
+This Wiki is influenced by other well documented Github Wikis, like [Snowplow](https://github.com/snowplow/snowplow/wiki) and [d3.js](https://github.com/mbostock/d3/wiki), and other examples from [this Quora thread](http://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects).
 
 ### Name Spacing
 
+Some pages are name spaced according to its section. Here are the known Name Spaced pages, which distinguish them from main pages.
+
 - **Job Searching** -> Jobs-[*name of page*]
-- **Finding Your Niche** -> [*pending*]
-- **Hiring** -> [*pending*]
-- **Speaking** -> [*pending*]
-- **Organizing Meetups** -> [*pending*]
-- **Dev Interviews** -> [*pending*]
-- **Networking** -> [*pending*]
-- **Mentorships** -> [*pending*]
 - **Learning Another Language** -> Language-[*name of page*]
 
 ### Edit Message

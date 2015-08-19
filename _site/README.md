@@ -1,10 +1,18 @@
 # DBC-Boots.github.io
 
-DBC Boots Web Page, hosted on [dbc-boots.github.io](dbc-boots.github.io).
+DBC Boots Web Page, hosted on [dbc-boots.github.io](http://dbc-boots.github.io/).
 
 A hosted site where the Wiki lives.
 
 Powered by [Jekyll](http://jekyllrb.com/)
+
+### Contributing
+
+Want to contribute? Sign up to [join our repository here](https://docs.google.com/forms/d/1OC3WSuPx23SIwM_hEEoRf4SW8HVvoLyvwHYtmy8rYb0/viewform).
+
+* Or open an issue
+* Or send us a pull request
+* Or contribute to the [wiki](https://github.com/DBC-Boots/Resources/wiki)
 
 ## Local Set-up
 
