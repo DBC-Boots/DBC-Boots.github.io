@@ -60,6 +60,7 @@ anything you can imagine!
 * [Understanding Critical CSS](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) - From the editor of the article at Smashing Magazine (written by [Dean Hume](http://www.smashingmagazine.com/author/dean-hume/))
 
 > The web is slow, yet there are a few simple strategies to make websites faster. One of them is inlining critical CSS into the <head> of your pages, yet how exactly do you do it if your site contains hundreds of pages, or even worse, hundreds of different templates? You can’t do it manually. Dean Hume explains an easy way to get it done. If you’re a seasoned web developer, you might find the article obvious and self-explanatory, but it’s a good piece to show to your clients and junior developers for sure.
+
 * [CSS Lint](http://csslint.net/) - Finds multiple selectors, improper selections, and much more
 
 ## Talks
