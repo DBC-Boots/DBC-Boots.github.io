@@ -184,7 +184,6 @@ module Kramdown
           end
           ######## OVERRIDE ENDS HERE
         end
-        Jekyll.logger.info('Formatted Span HTML', @attr)
         format_as_span_html(el.type, @attr, res)
       end
 
