@@ -13,6 +13,7 @@ Welcome fellow Node Callbacks. Javascript has come a long way since its introduc
 
 ## ES6 or ES2015
 * [An Introduction to ES6 with io.js](https://github.com/tonypujals/demo-iojs-es6/blob/master/presentation.md)
+* [ES6 Katas](http://es6katas.org/)
 
 ## Node.js
 
