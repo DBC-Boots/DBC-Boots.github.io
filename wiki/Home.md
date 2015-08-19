@@ -13,18 +13,18 @@ You can join our Slack channel, [#Resources](https://reply-all.slack.com/message
 
 # Resource Sections
 
-* [[Job Searching]]
-* [[Finding Your Niche]] - Highlighting Different Job Categories 
-* [[Hiring]] - Open Positions
-* [[Work]]
-* [[Speaking]]
-* [[Organizing Meetups]]
-* [[Dev Interviews]]
-* [[Networking]]
-* [[Mentorships]]
-* [[Learning Another Language]]
-* [[Guide for All Developers]]
-* [[Code of Conduct]]
+* [Job Searching](Job-Searching)
+* [Finding Your Niche](Finding-Your-Niche) - Highlighting Different Job Categories 
+* [Hiring](Hiring) - Open Positions
+* [Work](Work)
+* [Speaking](Speaking)
+* [Organizing Meetups](Organizing-Meetups)
+* [Dev Interviews](Dev-Interviews)
+* [Networking](Networking)
+* [Mentorships](Mentorships)
+* [Learning Another Language](Learning-Another-Language)
+* [Guide for All Developers](Guide-for-All-Developers)
+* [Code of Conduct](Code-of-Conduct)
 
 ## Introduction
 
