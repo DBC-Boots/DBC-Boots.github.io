@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Jobs Postings
-wikiPageName: Jobs-Postings
+title: Jobs Research
+wikiPageName: Jobs-Research
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ **Job Research**
+> [Wiki](Home) ▸ [Job Searching](Job-Searching) ▸ **Job Research**
 
 # Job Research Links
 

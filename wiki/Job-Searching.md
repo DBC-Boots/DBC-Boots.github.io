@@ -11,7 +11,7 @@ A resources guide to job searching. You will also find success stories here too.
 
 # Resources
 
-* [Job Postings](Jobs-Postings)
+* [Job Research](Jobs-Research)
 * [Finding The Right Employer](Jobs-Finding-The-Right-Employer)
 * [Success Stories](Jobs-Success-Stories)
 * [Negotiations](Jobs-Negotiations)
