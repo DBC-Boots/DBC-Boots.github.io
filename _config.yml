@@ -12,7 +12,7 @@ twitter_username: jermspeaks # Pending Twitter Page
 github_username:  DBC-Boots
 
 # Build settings
-markdown: redcarpet
+markdown: Kramdown
 
 ##
 # Parameters for WikiToJekyll
