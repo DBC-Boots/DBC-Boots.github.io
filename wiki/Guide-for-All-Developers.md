@@ -45,6 +45,10 @@ Learning doesn't stop at DBC. Here's some more topics to start tackling for your
 * [Bento](https://www.bento.io/) - Learn to code and what to code next - a grid of technologies and tools to research to learn as a developer.
 * [Sliced Ham](http://www.slicedham.co/) - Engineering stories voted up and down like Reddit.
 
+### Conference Videos
+
+* [OSCON 2015 Youtube Playlist](https://www.youtube.com/playlist?list=PL055Epbe6d5YhDchEvY3O4nIuSLYyrx7K) - [Open Source Convention - O'Reilly OSCON 2015](http://www.oscon.com/open-source-2015), between July 20th-24th in Portland, Oregon. This is a playlist of videos they put out. If you really want to be amazed (and encouraged to speak in front of an audience), I suggest you watch [Keila Banks'](https://www.youtube.com/watch?v=xkTcSoQ-q5Q) video. [#girlswhocode](http://girlswhocode.com/)
+
 ### Podcasts
 
 Want to continue learning about tech outside of DBC or work? Podcasts have become a great medium for learning more about anything you want, including programming. Feel free to continue contributing to this list.

@@ -32,3 +32,11 @@ That said, you're probably not prepared enough yet, so the second thing is **pra
 * [Deck.js](https://github.com/imakewebthings/deck.js) - One shortcoming of PowerPoint is that it's hard to share it in the browser. You have to download the presentation and open it before you can look at the slides. And that's assuming you have PowerPoint installed. Deck.js makes beautiful presentations in the browser that you can immediately share after you give the presentation.
 * [Google Slides](https://www.google.com/slides/) - Part of the Google Drive set of tools for making presentations. 
 * [Prezi](https://prezi.com/) - Zoom in and out of one big presentation image. The default animation of zoom in and out makes for a different pace than PowerPoint. I'm not a personal fan of Prezi, but I do like its effort to stand out away from PowerPoint.
+
+# Conferences
+
+This is a section dedicated to conference speaking, suggestions of conferences you should try to attend, and inspirational videos. Most of this section is thanks to [Chiu-Ki Chan](https://twitter.com/chiuki) and [Cate Huston](https://twitter.com/catehstn) who run the weekly newsletter [Technically Speaking](http://tinyletter.com/techspeak), which I talked about in the section above.
+
+* From the Inspiration section of [Technically Speaking's August 4th, 2015 edition](http://tinyletter.com/techspeak/letters/technically-speaking-august-4-2015)
+
+> Keila Banks gave the inspiration keynote “Undefinable Me” at OSCON. People may see her as a 13-year-old girl from inner city Los Angeles, but she is so much more than that. We love how she kept asking “Have you redefined me yet?” throughout her talk. Public speaking is great for that: To change discourse by challenging stereotypes. African American means uneducated? Girl means not techy? Not so fast. [watch it](https://www.youtube.com/watch?v=xkTcSoQ-q5Q), [tweet it](https://twitter.com/home?status=Watch%20Keila%20Banks%27%20inspirational%20keynote%20%22Undefinable%20Me%22%20http://bit.ly/1MxJfpC%20via%20%40techspeakdigest).
