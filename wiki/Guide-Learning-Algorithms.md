@@ -5,7 +5,7 @@ wikiPageName: Guide-Learning-Algorithms
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Guide for All Developers]] ▸ **Deep Dive - Algorithms**
+> [Wiki](Home) ▸ [Guide for All Developers](Guide-for-All-Developers) ▸ **Deep Dive - Algorithms**
 
 # Deep Dive - Algorithms
 

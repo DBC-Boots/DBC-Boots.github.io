@@ -5,7 +5,7 @@ wikiPageName: Guide-Learning-Terminal
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Guide for All Developers]] ▸ **Upgrading Your Terminal**
+> [Wiki](Home) ▸ [Guide for All Developers](Guide-for-All-Developers) ▸ **Upgrading Your Terminal**
 
 # Upgrading Your Terminal
 

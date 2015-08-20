@@ -5,7 +5,7 @@ wikiPageName: Learning-PHP
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Learning Another Language]] ▸ **PHP**
+> [Wiki](Home) ▸ [Learning Another Language](Learning-Another-Language) ▸ **PHP**
 
 # PHP
 

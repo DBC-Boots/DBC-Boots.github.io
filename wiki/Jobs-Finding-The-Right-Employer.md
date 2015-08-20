@@ -5,7 +5,7 @@ wikiPageName: Jobs-Finding-The-Right-Employer
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Job Searching]] ▸ **Finding The Right Employer**
+> [Wiki](Home) ▸ [Job Searching](Job-Searching) ▸ **Finding The Right Employer**
 
 ### Company Smells
 

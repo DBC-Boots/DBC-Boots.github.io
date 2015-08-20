@@ -5,7 +5,7 @@ wikiPageName: Guide-Learning-OO
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Guide for All Developers]] ▸ **OO & OOD**
+> [Wiki](Home) ▸ [Guide for All Developers](Guide-for-All-Developers) ▸ **OO & OOD**
 
 # OO & OOD
 
