@@ -5,7 +5,7 @@ wikiPageName: Guide-Learning-Tech-Debt
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Guide for All Developers]] ▸ **Technical Debt**
+> [Wiki](Home) ▸ [Guide for All Developers](Guide-for-All-Developers) ▸ **Technical Debt**
 
 # Technical Debt
 

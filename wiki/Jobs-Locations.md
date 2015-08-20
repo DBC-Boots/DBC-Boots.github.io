@@ -5,7 +5,7 @@ wikiPageName: Jobs-Locations
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Job Searching]] ▸ **Locations**
+> [Wiki](Home) ▸ [Job Searching](Job-Searching) ▸ **Locations**
 
 # Locations
 

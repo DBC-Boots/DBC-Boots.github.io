@@ -7,6 +7,10 @@ menu: wiki
 
 > [Wiki](Home) ▸ **Dev Interviews**
 
+[Kevin Ko](https://twitter.com/kokev) (2013 DBC Grad) wrote an entire book on this topic, as well as hacking the job application. It's called [Hired Fast: The Junior Developer's Guide To Getting a Job](https://kokev.in/hired-fast?promo=dbcrocks). DBC grads get $10 off if they use this exclusive link. (Retail $39, Discount $29)
+
+> This guide teaches you the techniques successful candidates have used to get companies begging them to join. Interview advice is outdated, it's not about memorizing algorithms and having a neat résumé anymore. Instead of learning how to traverse binary trees, you'll master the job interview process from start to finish and use today's techniques to get hired.
+
 # Interview Resources
 
 This entire section is thanks to [Mai Nguyen](https://github.com/mxngyn/) from her [Resources Repo](https://github.com/mxngyn/resources/).
@@ -29,4 +33,5 @@ This entire section is thanks to [Mai Nguyen](https://github.com/mxngyn/) from h
 
 ## Whiteboarding
 
+*   [Intro to Whiteboarding - DBC](https://github.com/adowns01/Intro-to-Whiteboarding-DBC) - **(Almost) every Wednesday 6:30pm - 8:00pm at DBC SF**. The repository itself has a bunch of question and answers, geared to DBC alumni.
 *   [Stop Whiteboarding](https://medium.com/@gregorymazurek/stop-whiteboarding-8ed99abfdc12) - [Gregory Mazurek](https://twitter.com/GregoryMazurek), engineer at [Gilt](http://www.gilt.com/), writes from the company's perspective on asking better interview questions

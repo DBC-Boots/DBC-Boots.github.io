@@ -5,7 +5,7 @@ wikiPageName: Guide-Learning-Virtual-Machines
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Guide for All Developers]] ▸ **Virtual Machines**
+> [Wiki](Home) ▸ [Guide for All Developers](Guide-for-All-Developers) ▸ **Virtual Machines**
 
 # Virtual Machines (VM)
 

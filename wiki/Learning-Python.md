@@ -5,7 +5,7 @@ wikiPageName: Learning-Python
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Learning Another Language]] ▸ **Python**
+> [Wiki](Home) ▸ [Learning Another Language](Learning-Another-Language) ▸ **Python**
 
 # Python Resources 
 

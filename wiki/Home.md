@@ -44,10 +44,11 @@ Some pages are name spaced according to its section. Here are the known Name Spa
 
 - **Job Searching** -> Jobs-[*name of page*]
 - **Learning Another Language** -> Language-[*name of page*]
+- **Learning Guides** -> Guide-Learning-[*name of topic*]
 
 ### Edit Message
 
-Personally haven't been too good about it. Make it short and to the point if you're editing someone else's sentences.
+Please leave a concise message of each change to the Wiki pages. The message should point out to someone going through the past commits to tell them what changed.
 
 ## Credits
 

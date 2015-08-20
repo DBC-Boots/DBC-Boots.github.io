@@ -5,6 +5,8 @@ wikiPageName: Learning-Advanced-Ruby
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Learning Another Language]] ▸ **Ruby for Advanced Beginners**
+> [Wiki](Home) ▸ [Learning Another Language](Learning-Another-Language) ▸ **Ruby for Advanced Beginners**
 
 # Ruby for Advanced Beginners
+
+`WIP`

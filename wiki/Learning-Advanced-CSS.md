@@ -5,7 +5,7 @@ wikiPageName: Learning-Advanced-CSS
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Learning Another Language]] ▸ **CSS For Advanced Beginners**
+> [Wiki](Home) ▸ [Learning Another Language](Learning-Another-Language) ▸ **CSS For Advanced Beginners**
 
 # CSS for Advanced Beginners
 

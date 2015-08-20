@@ -5,7 +5,7 @@ wikiPageName: Jobs-Negotiations
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Job Searching]] ▸ **Negotiations**
+> [Wiki](Home) ▸ [Job Searching](Job-Searching) ▸ **Negotiations**
 
 # Negotiations
 

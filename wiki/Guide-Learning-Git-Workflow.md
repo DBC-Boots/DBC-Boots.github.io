@@ -5,7 +5,7 @@ wikiPageName: Guide-Learning-Git-Workflow
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Guide for All Developers]] ▸ **Git Workflow**
+> [Wiki](Home) ▸ [Guide for All Developers](Guide-for-All-Developers) ▸ **Git Workflow**
 
 # Git Workflow
 

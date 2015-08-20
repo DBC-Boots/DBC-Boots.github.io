@@ -5,7 +5,7 @@ wikiPageName: Guide-Learning-DBC
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Guide for All Developers]] ▸ **Design By Contract**
+> [Wiki](Home) ▸ [Guide for All Developers](Guide-for-All-Developers) ▸ **Design By Contract**
 
 # Design by Contract
 
