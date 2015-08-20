@@ -41,3 +41,8 @@ This will do the following:
 - launch a Jekyll build
 - convert wiki links to Jekyll links
 - optionally commit and push you code to you Jekyll repository
+
+### Known Issues with Sync
+
+- Won't be able to use Github's flavored markdown of relative files shorthand, e.g. `[[Home]]`
+- Won't be able to use named linked if you want to focus on section. That's a link with a hashtag to that section. Affects some of the guide pages.
