@@ -33,5 +33,5 @@ This entire section is thanks to [Mai Nguyen](https://github.com/mxngyn/) from h
 
 ## Whiteboarding
 
-*   [Intro to Whiteboarding - DBC](https://github.com/adowns01/Intro-to-Whiteboarding-DBC) - **(Almost) every Wednesday 6:30pm - 8:00pm at DBC SF**. The repository itself has a bunch of question and answers, geared to DBC alumni.
+*   [Intro to Whiteboarding - DBC](https://github.com/adowns01/Intro-to-Whiteboarding-DBC) - **(Almost) every Wednesday 6:30pm - 8:00pm at DBC SF**. Run primarily by DBC Alumni [Amelia Downs](https://twitter.com/DownsAmelia) and [John Akers](https://twitter.com/jay_akers). The repository has a bunch of question and answers that you can practice with to prepare you for the coding interview.
 *   [Stop Whiteboarding](https://medium.com/@gregorymazurek/stop-whiteboarding-8ed99abfdc12) - [Gregory Mazurek](https://twitter.com/GregoryMazurek), engineer at [Gilt](http://www.gilt.com/), writes from the company's perspective on asking better interview questions
