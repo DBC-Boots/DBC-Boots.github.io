@@ -16,7 +16,11 @@ Want to contribute? Sign up to [join our repository here](https://docs.google.co
 
 ## Local Set-up
 
+You must clone the repo recursively or else the the `rake wiki` command won't work. The other way to do it if you didn't clone recursively is to pull in the wiki submodule.
+
+
 ```shell
+$ git clone git@github.com:DBC-Boots/DBC-Boots.github.io.git --recursive
 $ jekyll serve
 # => Now browse to http://localhost:4000
 ```
@@ -37,3 +41,8 @@ This will do the following:
 - launch a Jekyll build
 - convert wiki links to Jekyll links
 - optionally commit and push you code to you Jekyll repository
+
+### Known Issues with Sync
+
+- Won't be able to use Github's flavored markdown of relative files shorthand, e.g. `[[Home]]`
+- Won't be able to use named linked if you want to focus on section. That's a link with a hashtag to that section. Affects some of the guide pages.
