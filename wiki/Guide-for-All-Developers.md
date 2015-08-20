@@ -9,7 +9,7 @@ menu: wiki
 
 # Guide for All Developers
 
-[Ken Shimizu](https://twitter.com/vice_versus_) wrote this in his piece you can find over at [[Jobs Success Stories]] that explains the amount you just don't know still coming out of DBC.
+[Ken Shimizu](https://twitter.com/vice_versus_) wrote this in his piece you can find over at [Jobs Success Stories](Jobs-Success-Stories) that explains the amount you just don't know still coming out of DBC.
 
 > When I first started working, there were so many factors around writing code that I didn’t know, that it was hard for me to focus on coding itself. Learning the domain model, estimation, design collaboration, git flow, and a deployment process, all while trying to show your technical worth can be hard. It took me months to learn all these little skills, but if you can learn some of them before entering the workforce, you can really hit the ground running! Not only that, but you’ll be able to talk about them knowledgeably at an interview, improving your chances of getting hired.
 
