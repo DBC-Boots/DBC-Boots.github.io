@@ -33,6 +33,12 @@ That said, you're probably not prepared enough yet, so the second thing is **pra
 * [Google Slides](https://www.google.com/slides/) - Part of the Google Drive set of tools for making presentations. 
 * [Prezi](https://prezi.com/) - Zoom in and out of one big presentation image. The default animation of zoom in and out makes for a different pace than PowerPoint. I'm not a personal fan of Prezi, but I do like its effort to stand out away from PowerPoint.
 
+# Upcoming Conferences and CfP (Call for Proposals)
+
+* [Ruby Conferences](http://rubyconferences.org/) - Next scheduled Ruby conferences
+* [Technically Speaking](http://tinyletter.com/techspeak) Newsletter also contains one or more upcoming CfP
+* [Lanyrd](http://lanyrd.com/dashboard/) - Shows all upcoming conferences. Filter by topic.
+
 # Conferences
 
 This is a section dedicated to conference speaking, suggestions of conferences you should try to attend, and inspirational videos. Most of this section is thanks to [Chiu-Ki Chan](https://twitter.com/chiuki) and [Cate Huston](https://twitter.com/catehstn) who run the weekly newsletter [Technically Speaking](http://tinyletter.com/techspeak), which I talked about in the section above.
@@ -45,7 +51,15 @@ This is a section dedicated to conference speaking, suggestions of conferences y
 
 * While we're at it, here's [the rest of the videos from OSCON 2015](https://www.youtube.com/playlist?list=PL055Epbe6d5YhDchEvY3O4nIuSLYyrx7K)
 * [Talks For Every Javascript Developer](https://www.youtube.com/playlist?list=PLseEp7p6Ewia6RT5Ngz8yk-t-jAZvA-8N)
-* [CascadiaFest 2015](https://www.youtube.com/playlist?list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7)
+* [RailsConf](http://railsconf.com/)
+  * [RailsConf 2013](https://www.youtube.com/playlist?list=PLE7tQUdRKcybxgqVTwuOA12wr5Gn2M2Pp)
+  * [RailsConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ5jfnbS_osIoWzK_FrwKz5)
+  * [RailsConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybf82pLlMnPZjAMMMV5DJsK)
+* [CascadiaFest](http://cascadiajs.com/) - An Annual Conference in the Pacific Northwest all about Javascript
+  * [CascadiaFest 2012](https://www.youtube.com/playlist?list=PLLiioAbFTbKMtmUbLWDzpUzayRLC5s2NZ)
+  * [CascadiaFest 2013](https://www.youtube.com/playlist?list=PLLiioAbFTbKP9CxF9Fu4_NQteU_v9wkA3)
+  * [CascadiaFest 2014](https://www.youtube.com/playlist?list=PLLiioAbFTbKMoXtKtyj_3eCfzD-eT05gl)
+  * [CascadiaFest 2015](https://www.youtube.com/playlist?list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7)
 * [jQueryConf SF 2015](https://www.youtube.com/playlist?list=PL0bvP7Hupz0SCXeklgEj0wlzVc7bAuZlw)
 * [XOXO](http://2015.xoxofest.com/) - While not developer focused, it's important to look at the end users. This conference is for the creative types who use the Internet to make and give things.
   * [XOXO 2012](https://www.youtube.com/playlist?list=PLCbA9r6ecYWUiad0vPYp9OJaQjvCzS5JK)
