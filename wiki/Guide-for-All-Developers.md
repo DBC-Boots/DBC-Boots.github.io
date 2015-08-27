@@ -31,6 +31,7 @@ Learning doesn't stop at DBC. Here's some more topics to start tackling for your
 * [Deep Dive - Algorithms](Guide-Learning-Algorithms)
 * [Virtual Machines](Guide-Learning-Virtual-Machines)
 * [How Does DNS work?](Guide-Learning-DNS)
+* [APIs](Guide-Learning-API)
 
 ## Additional Resources
 

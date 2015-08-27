@@ -50,6 +50,10 @@ TODO: Talk about Mastery
 
 * Book: [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509)
 
+### Deployment
+
+* [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) - **Book** "A robust framework for provisioning servers with Chef and deploying reliably with Capistrano 3, including example code templates you can use directly." Thanks to @aarond (Slack)
+
 ## Web Designer
 
 * [The Non-Designer's Design Book](http://www.amazon.com/gp/product/0321534042/) (Book)
