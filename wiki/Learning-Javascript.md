@@ -47,9 +47,11 @@ Thanks to the [Book of Modern frontend Tooling](http://tooling.github.io/book-of
 
 ### Scaffolds
 
-* Yeoman
-* Brunch
-* Loom
+* [Yeoman](http://yeoman.io/)
+* [Brunch](http://brunch.io/)
+* [Loom](https://www.npmjs.com/package/loom)
+
+If you're super interested in generating scaffolds, checkout [Makefiles](http://mrbook.org/blog/tutorials/make/). They're the C version of all of this used "back in the day".
 
 ### Build Systems
 
@@ -64,9 +66,12 @@ If you're interested in the next-gen build systems, watch this talk by [James Ky
 
 ### Dependency Management
 
-* NPM / Browserify
-* Bower
-* Webpack
+* [NPM](https://www.npmjs.com/) / [Browserify](http://browserify.org/)
+* [Bower](http://bower.io/)
+* [Webpack](http://webpack.github.io/)
+* [JSPM](http://jspm.io/)
+
+`TODO` - Talk about CommonJS and AMD
 
 # Javascript Videos
 
