@@ -34,3 +34,13 @@ At some point, you're going to `ssh` into something, whether it be a virtual mac
 
 * [Turn on and off syntax](http://www.cyberciti.biz/faq/turn-on-or-off-color-syntax-highlighting-in-vi-or-vim/) via `~/.vimrc`
 * [**Vundle**](https://github.com/gmarik/Vundle.vim) - Package manager for Vim
+
+# Dotfiles
+
+The holy grail of machine set-ups: dotfiles. You can learn a lot from [this website](http://dotfiles.github.io/).
+
+> **Backup**, **restore**, and **sync** the prefs and settings for your toolbox. Your dotfiles might be the most important files on your machine.
+> **Learn** from the community. Discover new tools for your toolbox and new tricks for the ones you already use.
+> **Share** what you've learned with the rest of us.
+
+I'm personally using [Zach Holman's dotfiles](https://github.com/holman/dotfiles)
