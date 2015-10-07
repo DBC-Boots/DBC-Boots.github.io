@@ -10,6 +10,8 @@ menu: wiki
 # Upgrading Your Terminal
 
 * [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) - One of the best guides out there for learning your command line like the back of your hand. No really, if you think you're great with the command line now, think again. Points you in the direction of what you should learn, but not so great in actually teaching it.
+* Not `man` enough? Want a more interactive manual for your terminal commands? [Explain Shell](http://explainshell.com/) is a search box that will show you the `man` -uals of different shell commands. (For those who don't get the pun, the `man` command on the terminal followed by a command will show the manual for that command)
+* [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) - Zed Shaw's crash course for the command line
 
 ## Bash
 
