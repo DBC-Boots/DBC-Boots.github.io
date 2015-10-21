@@ -11,6 +11,15 @@ For finding a job, refer to [[Job Searching]] section if this is pertaining to f
 
 For all other purposes, this is your section.
 
+# Table of Contents
+
+1. [Recruiters](#recruiters)
+1. [Meetups](#meetups)
+1. [Conferences](#conferences)
+1. [Hackathons](#hackathons)
+1. [Managing Connections](#managing-connections)
+1. [Resources](#resources)
+
 ## Recruiters
 
 `WIP` - This will be a section about how to talk (and not talk) to recruiters.
@@ -66,6 +75,14 @@ The last three links are thanks to [Katherine McClintic](https://github.com/kdmc
 
 Section is `WIP`
 
+## Hackathons
+
+Hackathons are events that people gather together and try to solve a problem, hack at a new API, or hack on new technology. Each hackathon is different. Some have prizes, others have the respect of developers. Research your hackathon, reach out to the organizers, figure out which one is right for you. 
+
+### Finding Hackathons
+
+* [DevPost](http://devpost.com/) - Find hackathons near you
+ 
 ## Managing Connections
 
 A.k.a "The Hustle". It's the art of really making meaningful connections with the people you meet. There's a few rules about managing your connections though, so let's go over some ground rules.
@@ -81,3 +98,4 @@ A.k.a "The Hustle". It's the art of really making meaningful connections with th
 ### Books
 
 * [How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) - The old Dale Carnegie classic. Still very applicable today as it was over half a century ago. Most seem very common sense, and it is, but worth re-visiting time and again.
+* [Never Eat Alone](http://www.amazon.com/Never-Eat-Alone-Secrets-Relationship/dp/0385512058) - A book about how to be a networking guru. Okay, guru is the wrong word. The book talks about how to meet people at conferences, how to hold dinner parties, how to maintain relationships. Main message: Do it all day, everyday. And it shouldn't be work, it should be fun.
