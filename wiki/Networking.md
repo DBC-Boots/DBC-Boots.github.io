@@ -52,6 +52,14 @@ This is a section dedicated to conference speaking, suggestions of conferences y
 * [Ruby Conferences](http://rubyconferences.org/) - Next scheduled Ruby conferences
 * [Technically Speaking](http://tinyletter.com/techspeak) Newsletter also contains one or more upcoming CfP
 * [Lanyrd](http://lanyrd.com/dashboard/) - Shows all upcoming conferences. Filter by topic.
+* [Mashable: Events](http://events.mashable.com/) - Filter by category, location, and date
+
+> Mashable's Events Board allows event organizers and the Mashable Community to connect, network, search, locate and list social media events, tech events, marketing conferences, and webinars throughout the world.
+
+* [Conference Alerts](http://www.conferencealerts.com/) - Older website
+
+The last three links are thanks to [Katherine McClintic](https://github.com/kdmcclin)
+
 ### Unconference
 
 [http://www.unconference.net/](Unconference Main Page)
