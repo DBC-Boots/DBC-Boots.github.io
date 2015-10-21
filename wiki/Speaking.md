@@ -37,44 +37,9 @@ Thanks to [Lauren Scott](https://twitter.com/devdame) for the link.
 * [Google Slides](https://www.google.com/slides/) - Part of the Google Drive set of tools for making presentations. 
 * [Prezi](https://prezi.com/) - Zoom in and out of one big presentation image. The default animation of zoom in and out makes for a different pace than PowerPoint. I'm not a personal fan of Prezi, but I do like its effort to stand out away from PowerPoint.
 
-# Upcoming Conferences and CfP (Call for Proposals)
-
-* [Ruby Conferences](http://rubyconferences.org/) - Next scheduled Ruby conferences
-* [Technically Speaking](http://tinyletter.com/techspeak) Newsletter also contains one or more upcoming CfP
-* [Lanyrd](http://lanyrd.com/dashboard/) - Shows all upcoming conferences. Filter by topic.
-
 # Conferences
 
-This is a section dedicated to conference speaking, suggestions of conferences you should try to attend, and inspirational videos. Most of this section is thanks to [Chiu-Ki Chan](https://twitter.com/chiuki) and [Cate Huston](https://twitter.com/catehstn) who run the weekly newsletter [Technically Speaking](http://tinyletter.com/techspeak), which I talked about in the section above.
-
-* From the Inspiration section of [Technically Speaking's August 4th, 2015 edition](http://tinyletter.com/techspeak/letters/technically-speaking-august-4-2015)
-
-> Keila Banks gave the inspiration keynote “Undefinable Me” at OSCON. People may see her as a 13-year-old girl from inner city Los Angeles, but she is so much more than that. We love how she kept asking “Have you redefined me yet?” throughout her talk. Public speaking is great for that: To change discourse by challenging stereotypes. African American means uneducated? Girl means not techy? Not so fast. [watch it](https://www.youtube.com/watch?v=xkTcSoQ-q5Q), [tweet it](https://twitter.com/home?status=Watch%20Keila%20Banks%27%20inspirational%20keynote%20%22Undefinable%20Me%22%20http://bit.ly/1MxJfpC%20via%20%40techspeakdigest).
-
-[![Undefinable Me by Keila Banks](http://img.youtube.com/vi/xkTcSoQ-q5Q/0.jpg)](http://www.youtube.com/watch?v=xkTcSoQ-q5Q)
-
-* While we're at it, here's [the rest of the videos from OSCON 2015](https://www.youtube.com/playlist?list=PL055Epbe6d5YhDchEvY3O4nIuSLYyrx7K)
-* [Talks For Every Javascript Developer](https://www.youtube.com/playlist?list=PLseEp7p6Ewia6RT5Ngz8yk-t-jAZvA-8N)
-* [RailsConf](http://railsconf.com/)
-  * [RailsConf 2013](https://www.youtube.com/playlist?list=PLE7tQUdRKcybxgqVTwuOA12wr5Gn2M2Pp)
-  * [RailsConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ5jfnbS_osIoWzK_FrwKz5)
-  * [RailsConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybf82pLlMnPZjAMMMV5DJsK)
-* [CascadiaFest](http://cascadiajs.com/) - An Annual Conference in the Pacific Northwest all about Javascript
-  * [CascadiaFest 2012](https://www.youtube.com/playlist?list=PLLiioAbFTbKMtmUbLWDzpUzayRLC5s2NZ)
-  * [CascadiaFest 2013](https://www.youtube.com/playlist?list=PLLiioAbFTbKP9CxF9Fu4_NQteU_v9wkA3)
-  * [CascadiaFest 2014](https://www.youtube.com/playlist?list=PLLiioAbFTbKMoXtKtyj_3eCfzD-eT05gl)
-  * [CascadiaFest 2015](https://www.youtube.com/playlist?list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7)
-* [jQueryConf SF 2015](https://www.youtube.com/playlist?list=PL0bvP7Hupz0SCXeklgEj0wlzVc7bAuZlw)
-* [XOXO](http://2015.xoxofest.com/) - While not developer focused, it's important to look at the end users. This conference is for the creative types who use the Internet to make and give things.
-  * [XOXO 2012](https://www.youtube.com/playlist?list=PLCbA9r6ecYWUiad0vPYp9OJaQjvCzS5JK)
-  * [XOXO 2013](https://www.youtube.com/playlist?list=PLCbA9r6ecYWVODF5qW9kntPS8UP5azmTr)
-  * [XOXO 2014](https://www.youtube.com/playlist?list=PLCbA9r6ecYWUhf2EuEs9eoLT2Dc1yjiGh) - From [Jeremy Wong](https://twitter.com/jermspeaks), "Unbeknownst to me, I watched [Erin McKean's talk about Wordnik](https://www.youtube.com/watch?v=_sQjc3KFuAQ&index=9&list=PLCbA9r6ecYWUhf2EuEs9eoLT2Dc1yjiGh) right before I was hired at her company."
-
-# Unconference
-
-[http://www.unconference.net/](Unconference Main Page)
-
-Section is `WIP`
+Moved this section over to [Networking](Networking#conferences).
 
 # Tips
 
