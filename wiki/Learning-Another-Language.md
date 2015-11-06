@@ -18,6 +18,7 @@ You couldn't find that Rails job. Aw shucks. But you're in luck. You received a 
 * [CSS for Advanced Beginners](Learning-Advanced-CSS)
 * [Ruby For Advanced Beginners](Learning-Advanced-Ruby)
 * [C#](Learning-C-Sharp)
+* [Clojure](Learning-Clojure)
 
 ## Resources
 

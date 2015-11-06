@@ -19,6 +19,7 @@ Here is a list of job positions and a deep dive into each role.
 > **You never need classes in JavaScript**, and I have never seen a situation where class is a better approach than the alternatives. If you can think of any, leave a comment, but I’ve been making that challenge for years now, and *nobody has come up with a good use-case* — just flimsy arguments about micro-optimizations or style preferences.
 
 * Our very own @keccers and @marksb created a [resource list](https://github.com/keccers/resource_list) for front-end development in design, styling, and typography.
+* [Front-End Handbook](http://www.frontendhandbook.com/) - A Git Book showcasing the latest and greatest in Front-end Development.
 
 ### Cross-Browser Testing
 
