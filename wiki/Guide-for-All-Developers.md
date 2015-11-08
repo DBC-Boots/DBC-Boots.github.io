@@ -30,6 +30,10 @@ Learning doesn't stop at DBC. Here's some more topics to start tackling for your
 	* [Object Interfaces](Guide-Learning-OO#object-interfaces)
 * [Deep Dive - Algorithms](Guide-Learning-Algorithms)
 * [Virtual Machines](Guide-Learning-Virtual-Machines)
+* [How Does DNS work?](Guide-Learning-DNS)
+* [APIs](Guide-Learning-API)
+* [Logging](Guide-Learning-Logging)
+* [Regex](Guide-Learning-Regex)
 
 ## Additional Resources
 

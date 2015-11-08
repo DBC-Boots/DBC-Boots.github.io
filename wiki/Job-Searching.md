@@ -11,6 +11,11 @@ A resources guide to job searching. You will also find success stories here too.
 
 # Resources
 
+You'll find most links for job searching under `Job Research`. There are a number of other topics we go over in the Directory section below.
+
+* [Apprenticeships](http://apprentice.at/) - A directory of Apprenticeships
+
+# Directory
 * [Job Research](Jobs-Research)
 * [Finding The Right Employer](Jobs-Finding-The-Right-Employer)
 * [Success Stories](Jobs-Success-Stories)

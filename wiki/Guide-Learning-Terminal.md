@@ -10,6 +10,8 @@ menu: wiki
 # Upgrading Your Terminal
 
 * [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) - One of the best guides out there for learning your command line like the back of your hand. No really, if you think you're great with the command line now, think again. Points you in the direction of what you should learn, but not so great in actually teaching it.
+* Not `man` enough? Want a more interactive manual for your terminal commands? [Explain Shell](http://explainshell.com/) is a search box that will show you the `man` -uals of different shell commands. (For those who don't get the pun, the `man` command on the terminal followed by a command will show the manual for that command)
+* [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) - Zed Shaw's crash course for the command line
 
 ## Bash
 
@@ -34,3 +36,13 @@ At some point, you're going to `ssh` into something, whether it be a virtual mac
 
 * [Turn on and off syntax](http://www.cyberciti.biz/faq/turn-on-or-off-color-syntax-highlighting-in-vi-or-vim/) via `~/.vimrc`
 * [**Vundle**](https://github.com/gmarik/Vundle.vim) - Package manager for Vim
+
+# Dotfiles
+
+The holy grail of machine set-ups: dotfiles. You can learn a lot from [this website](http://dotfiles.github.io/).
+
+> **Backup**, **restore**, and **sync** the prefs and settings for your toolbox. Your dotfiles might be the most important files on your machine.
+> **Learn** from the community. Discover new tools for your toolbox and new tricks for the ones you already use.
+> **Share** what you've learned with the rest of us.
+
+I'm personally using [Zach Holman's dotfiles](https://github.com/holman/dotfiles)

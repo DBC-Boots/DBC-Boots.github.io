@@ -16,6 +16,7 @@ menu: wiki
 * [How I Hustled To Get The Perfect Job](https://medium.com/@inaherlihy/how-i-hussled-to-get-the-perfect-job-bd24e74188ae). A Tradecraft graduate talks about her meticulous process of finding the first job. Full of little nuggets when you're approaching your job search.
 
 The following list is taken from DBC grad [Mai Nguygen](https://twitter.com/mxngyn)'s [Resources Repo](https://github.com/mxngyn/resources).
+
 *   [AngelList](https://angel.co/)
 *   [StackOverflow Job Listings](http://careers.stackoverflow.com/jobs)
 *   [Hired](https://hired.com)
