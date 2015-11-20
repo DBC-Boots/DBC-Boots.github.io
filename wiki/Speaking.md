@@ -41,6 +41,12 @@ Thanks to [Lauren Scott](https://twitter.com/devdame) for the link.
 
 Moved this section over to [Networking](Networking#conferences).
 
+# Groups
+
+* [Toastmasters International](https://www.toastmasters.org/Find-a-Club) - "[Toastmasters..] provide a supportive and positive learning experience in which members are empowered to develop communication and leadership skills, resulting in greater self-confidence and personal growth." Attending a Toastmasters meeting in your area will help with overall speaking, though the clubs are not focused on Technical topics or Programming, the skills learned at these meetings will translate to many other groups. 
+
+_As a personal recommendation, I would check out multiple groups in your area before settling on one. After a meeting or two you will be able to determine if the Toastmasters' club is right for you. - @OliTreadwell [please contact me if you have any questions]_
+
 # Tips
 
 **Don't write out your whole speech**. I think the most boring talk is one where someone writes out their speech on a Powerpoint and lazily reads off the slides word by word. A professor of mine did that, and I slept through most of the class. It doesn't engage the audience and if you're reading from the slide, it most likely means you're not facing the audience, unless you have a teleprompter.
