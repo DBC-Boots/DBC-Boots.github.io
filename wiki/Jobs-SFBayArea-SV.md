@@ -5,9 +5,15 @@ wikiPageName: Jobs-SFBayArea-SV
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Job Searching]] ▸ [Locations](Jobs-Locations) ▸ **Silicon Valley**
+> [Wiki](Home) ▸ [Locations](Jobs-Locations) ▸ **Silicon Valley**
 
-# Silicon Valley
+## Resources
+
+`WIP` - Contributions needed.
+
+## Recurring Events
+
+`WIP`
 
 ## A Brief History
 

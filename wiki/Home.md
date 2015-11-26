@@ -18,6 +18,7 @@ Some sections have been moved. You should be able to find them on their own repo
 # Resource Sections
 
 * [Job Searching](Job-Searching)
+* [Locations](Jobs-Locations) - Things You Should Know About The Area
 * [Finding Your Niche](Finding-Your-Niche) - Highlighting Different Job Categories 
 * [Hiring](Hiring) - Open Positions
 * [Work](Work)

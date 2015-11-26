@@ -24,10 +24,3 @@ You'll find most links for job searching under `Job Research`. There are a numbe
 * [Negotiations](Jobs-Negotiations)
 * [Cold Outreach](Jobs-Cold-Outreach)
 * [Leveraging Social Networks](Jobs-Leveraging-Social-Networks)
-* [Locations](Jobs-Locations) - Things You Should Know About The Area
-  * [**San Francisco**](Jobs-SFBayArea-SF)
-  * [**Chicago**](Jobs-Chicago)
-  * [**NYC**](Jobs-NYC)
-  * [**Silicon Valley**](Jobs-SFBayArea-SV)
-  * [**Los Angeles**](Jobs-LA)
-  * [**Denver**](Jobs-Denver)

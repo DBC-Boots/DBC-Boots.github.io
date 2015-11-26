@@ -5,8 +5,14 @@ wikiPageName: Jobs-SFBayArea-SF
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Job Searching]] ▸ [Locations](Jobs-Locations) ▸ **San Francisco**
+> [Wiki](Home) ▸ [Locations](Jobs-Locations) ▸ **San Francisco**
 
-# San Francisco
+Including San Francisco, East Bay, & Peninsula
 
-`WIP`
+## Resources
+
+* [Angel List SF](https://angel.co/san-francisco/jobs)
+
+## Recurring Events
+
+`TBA` - If you're a SF alumni, please add the recurring events here
