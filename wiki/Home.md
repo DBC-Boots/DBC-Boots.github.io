@@ -27,7 +27,6 @@ Some sections have been moved. You should be able to find them on their own repo
 * [Dev Interviews](Dev-Interviews)
 * [Networking](Networking)
 * [Mentorships](Mentorships)
-* [Guide for All Developers](Guide-for-All-Developers)
 * [Code of Conduct](Code-of-Conduct)
 
 ## Introduction
@@ -66,4 +65,4 @@ Thanks to [Oli Treadwell](https://twitter.com/olitreadwell) for the idea on May 
 
 > Like a style guide
 
-Hence this Github organization was born. [Jeremy Wong](https://twitter.com/jermspeaks) has been the prime editor of this Wiki. [Kelly Yamamoto](https://twitter.com/minedamnesia) suggests us to follow the organization's [[Code of Conduct]].
+Hence this Github organization was born. [Jeremy Wong](https://twitter.com/jermspeaks) has been the prime editor of this Wiki. [Kelly Yamamoto](https://twitter.com/minedamnesia) suggests us to follow the organization's [Code of Conduct](https://github.com/DBC-Boots/Code-of-Conduct).
