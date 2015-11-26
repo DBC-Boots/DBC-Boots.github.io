@@ -1,6 +1,6 @@
 # Site settings
 title: DBC Boots Website
-email: jeremy@craftbyzen.com # Pending Email
+# email: jeremy@craftbyzen.com # Pending Email
 description: > # this means to ignore newlines until "baseurl:"
   Welcome ye all who have found the Post-DBC Resources guide.
   This section are resources to get you started for your Post-DBC life.
@@ -8,7 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
   That way, anyone who joins can make without having to do commits (we're not official here).
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://DBC-Boots.github.io" # the base hostname & protocol for your site
-twitter_username: jermspeaks # Pending Twitter Page
 github_username:  DBC-Boots
 
 # Build settings

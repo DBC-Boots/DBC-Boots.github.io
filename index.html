@@ -3,31 +3,32 @@ layout: default
 ---
 <div class="home">
     <h1>DBC Boots</h1>
+    <h2>Unofficial Resources for Dev Bootcamp Graduates</h2>
 
     <article class="introduction">
-        <div class="introduction-segment">
-            <img src="{{ site.url }}/assets/logo.jpeg" />
+        <div class="introduction-description">
+            <p>Welcome to the Resources Wiki for Post-DBC Graduates! Below is a written introduction for anyone whose never been to this Wiki before.</p>
 
-            <div class="introduction-description">
-                <p>Welcome to the Resources Wiki for Post-DBC Graduates! Below is a written introduction for anyone whose never been to this Wiki before.</p>
+            <p>Stay in touch with alumni! There are official alumni newsletters for each location. Contact your location's contact that coordinates alumni activities.</p>
 
-                <p>Stay in touch with alumni! There are official alumni newsletters for each location. Contact your location's contact that coordinates alumni activities.</p>
-
-                <p>You can join our Slack channel, <a href="https://reply-all.slack.com/messages/resources/" target="_blank">#Resources</a>, on <a href="https://reply-all.slack.com/messages/general/" target="_blank">Reply-All</a>.</p>
-            </div>
+            <p>You can join our Slack channel, <a href="https://reply-all.slack.com/messages/resources/" target="_blank">#Resources</a>, on <a href="https://reply-all.slack.com/messages/general/" target="_blank">Reply-All</a>.</p>
         </div>
     </article>
 
-    <article>
-        <h1>Wiki Pages</h1>
-        <ul class="list-without-styling">
-            {% for page in site.data.wiki.pages %}
-                <li>
-                    <h3>
-                        <a class="page-link" href="{{ page.url | prepend: site.data.wiki.baseUrl }}">{{ page.title }}</a>
-                    </h3>
-                </li>
-            {% endfor %}
-        </ul>
+    <article class="wiki">
+        <h2>Wiki Pages</h2>
+        <div class="wiki-list">
+            <ul class="list-without-styling">
+                {% for page in site.data.wiki.pages %}
+                    <li class="wiki-list__item">
+                        <a class="wiki-link" href="{{ page.url | prepend: site.data.wiki.baseUrl }}">
+                            <div class="wiki-card">
+                                <span>{{ page.title }}</span>
+                            </div>
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
     </article>
 </div>
