@@ -11,6 +11,10 @@ Stay in touch with alumni! There are official alumni newsletters for each locati
 
 You can join our Slack channel, [#Resources](https://reply-all.slack.com/messages/resources/), on [Reply-All](https://reply-all.slack.com/messages/general/).
 
+**Update** 11/25/2015
+
+Some sections have been moved. You should be able to find them on their own repositories from this organization. The remaining sections here are for post-DBC life related to work rather than learning a new language or new concepts.
+
 # Resource Sections
 
 * [Job Searching](Job-Searching)
@@ -22,7 +26,6 @@ You can join our Slack channel, [#Resources](https://reply-all.slack.com/message
 * [Dev Interviews](Dev-Interviews)
 * [Networking](Networking)
 * [Mentorships](Mentorships)
-* [Learning Another Language](Learning-Another-Language)
 * [Guide for All Developers](Guide-for-All-Developers)
 * [Code of Conduct](Code-of-Conduct)
 
