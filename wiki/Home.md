@@ -13,14 +13,13 @@ You can join our Slack channel, [#Resources](https://reply-all.slack.com/message
 
 **Update** 11/25/2015
 
-Some sections have been moved. You should be able to find them on their own repositories from this organization. The remaining sections here are for post-DBC life related to work rather than learning a new language or new concepts.
+I have moved [Guide for All Developers](https://github.com/DBC-Boots/developers-guide) & [Learning New Languages](https://github.com/DBC-Boots/Learning-New-Languages) to their own repositories. Also, I have removed Hiring, as there is no need to update a static wiki for job postings when the slack channel is much better at that. Check out [#Job-ops](https://reply-all.slack.com/messages/resources/).
 
 # Resource Sections
 
 * [Job Searching](Job-Searching)
 * [Locations](Jobs-Locations) - Things You Should Know About The Area
 * [Finding Your Niche](Finding-Your-Niche) - Highlighting Different Job Categories 
-* [Hiring](Hiring) - Open Positions
 * [Work](Work)
 * [Speaking](Speaking)
 * [Organizing Meetups](Organizing-Meetups)
