@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -21,6 +20,29 @@
     &:visited {
         color: $grey-color-dark;
     }
+}
+
+.site-frame {
+    float: left;
+    height: 58px;      /* equals max image height */
+    width: 58px;
+    white-space: nowrap;
+    text-align: center;
+    // margin: 1em 0;
+}
+
+.site-helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.site-logo {
+    height: 50px;
+    max-height: 52px;
+    max-width: 52px;
+    vertical-align: middle;
+    border: 1px solid $grey-color-dark;
 }
 
 .site-nav {

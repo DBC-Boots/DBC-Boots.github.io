@@ -6,6 +6,15 @@
   .list-without-styling li {
     margin-left: 0; }
 
+.introduction-segment {
+  display: flex; }
+.introduction img {
+  display: block;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin-bottom: 10px; }
+
 /**
  * Reset some basic elements
  */
@@ -154,7 +163,6 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   position: relative; }
@@ -167,6 +175,26 @@ pre {
   float: left; }
   .site-title, .site-title:visited {
     color: #424242; }
+
+.site-frame {
+  float: left;
+  height: 58px;
+  /* equals max image height */
+  width: 58px;
+  white-space: nowrap;
+  text-align: center; }
+
+.site-helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle; }
+
+.site-logo {
+  height: 50px;
+  max-height: 52px;
+  max-width: 52px;
+  vertical-align: middle;
+  border: 1px solid #424242; }
 
 .site-nav {
   float: right;

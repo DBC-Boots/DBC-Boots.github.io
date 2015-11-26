@@ -1,0 +1,13 @@
+.introduction {
+  &-segment {
+    display: flex;
+  }
+
+  img {
+    display: block;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+}
