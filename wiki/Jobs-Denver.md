@@ -5,11 +5,11 @@ wikiPageName: Jobs-Denver
 menu: wiki
 ---
 
-> [Wiki](Home) ▸ [[Job Searching]] ▸ [Locations](Jobs-Locations) ▸ **Denver**
+> [Wiki](Home) ▸ [Job Searching](Job-Searching) ▸ [Locations](Jobs-Locations) ▸ **Denver**
 
 ## Denver
 
 ### Resources
 
-* http://www.builtincolorado.com/companies  - startup directory
-* http://www.bdnewtech.com - local directory & more!
+* [Built In Colorado](http://www.builtincolorado.com/companies)  - startup directory
+* [BD New Tech](http://www.bdnewtech.com) - local directory & more!
