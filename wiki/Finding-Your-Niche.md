@@ -20,6 +20,7 @@ Here is a list of job positions and a deep dive into each role.
 
 * Our very own @keccers and @marksb created a [resource list](https://github.com/keccers/resource_list) for front-end development in design, styling, and typography.
 * [Front-End Handbook](http://www.frontendhandbook.com/) - A Git Book showcasing the latest and greatest in Front-end Development.
+* [Awesome list for Front-end Development](https://github.com/sindresorhus/awesome#front-end-development)
 
 ### Cross-Browser Testing
 
@@ -38,6 +39,8 @@ Here is a list of job positions and a deep dive into each role.
 ## Back-end Developer
 
 Also known as: `Server-Side Engineer`
+
+* [Awesome list for Back-end Development](https://github.com/sindresorhus/awesome#back-end-development)
 
 ## Full-stack Engineer
 
